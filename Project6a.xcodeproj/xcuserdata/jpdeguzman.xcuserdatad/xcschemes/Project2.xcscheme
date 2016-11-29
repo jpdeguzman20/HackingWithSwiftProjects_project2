@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "29BE17D51DDD9AE800C60D26"
-               BuildableName = "Project2.app"
-               BlueprintName = "Project2"
-               ReferencedContainer = "container:Project2.xcodeproj">
+               BuildableName = "Project6a.app"
+               BlueprintName = "Project6a"
+               ReferencedContainer = "container:Project6a.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "29BE17E91DDD9AE800C60D26"
-               BuildableName = "Project2Tests.xctest"
-               BlueprintName = "Project2Tests"
-               ReferencedContainer = "container:Project2.xcodeproj">
+               BuildableName = "Project6aTests.xctest"
+               BlueprintName = "Project6aTests"
+               ReferencedContainer = "container:Project6a.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "29BE17F41DDD9AE800C60D26"
-               BuildableName = "Project2UITests.xctest"
-               BlueprintName = "Project2UITests"
-               ReferencedContainer = "container:Project2.xcodeproj">
+               BuildableName = "Project6aUITests.xctest"
+               BlueprintName = "Project6aUITests"
+               ReferencedContainer = "container:Project6a.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -53,9 +53,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "29BE17D51DDD9AE800C60D26"
-            BuildableName = "Project2.app"
-            BlueprintName = "Project2"
-            ReferencedContainer = "container:Project2.xcodeproj">
+            BuildableName = "Project6a.app"
+            BlueprintName = "Project6a"
+            ReferencedContainer = "container:Project6a.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -76,9 +76,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "29BE17D51DDD9AE800C60D26"
-            BuildableName = "Project2.app"
-            BlueprintName = "Project2"
-            ReferencedContainer = "container:Project2.xcodeproj">
+            BuildableName = "Project6a.app"
+            BlueprintName = "Project6a"
+            ReferencedContainer = "container:Project6a.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,9 +95,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "29BE17D51DDD9AE800C60D26"
-            BuildableName = "Project2.app"
-            BlueprintName = "Project2"
-            ReferencedContainer = "container:Project2.xcodeproj">
+            BuildableName = "Project6a.app"
+            BlueprintName = "Project6a"
+            ReferencedContainer = "container:Project6a.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
@@ -106,6 +106,7 @@
    </AnalyzeAction>
    <ArchiveAction
       buildConfiguration = "Release"
+      customArchiveName = "Project6a"
       revealArchiveInOrganizer = "YES">
    </ArchiveAction>
 </Scheme>
